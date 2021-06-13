@@ -1,7 +1,6 @@
 # A Selection of My USP Essays
 
-The [University Scholars Programme (USP)](https://www.usp.nus.edu.sg/) is a four-year academic programme in the [National University of Singapore (NUS)](https://www.nus.edu.sg/). The programme offers a diverse range of [interdisciplinary modules]
-(https://www.usp.nus.edu.sg/curriculum/usp-modules/)that focus on writing and critifical thinking skills, intellectual curiosity, reflective thinking and asking questions.
+The [University Scholars Programme (USP)](https://www.usp.nus.edu.sg/) is a four-year academic programme in the [National University of Singapore (NUS)](https://www.nus.edu.sg/). The programme offers a diverse range of [interdisciplinary modules](https://www.usp.nus.edu.sg/curriculum/usp-modules/)that focus on writing and critifical thinking skills, intellectual curiosity, reflective thinking and asking questions.
 
 This repository contains a selection of the essays that I have written in my past three years in USP, involving these modules:
 - [Conditions of Happiness](https://github.com/LiuZechu/my-usp-essays/tree/main/conditions-of-happiness) — Fall 2018
@@ -15,7 +14,6 @@ Read on for more information about each module.
 
 ## Conditions of Happiness
 **Link to Module Website**:
-
 [https://www.usp.nus.edu.sg/curriculum/usp-modules/writing-and-critical-thinking-conditions-of-happiness/](https://www.usp.nus.edu.sg/curriculum/usp-modules/writing-and-critical-thinking-conditions-of-happiness/)
 
 **Module Synopsis**: 
