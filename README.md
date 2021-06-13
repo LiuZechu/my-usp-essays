@@ -2,7 +2,7 @@
 
 The [University Scholars Programme (USP)](https://www.usp.nus.edu.sg/) is a four-year academic programme in the [National University of Singapore (NUS)](https://www.nus.edu.sg/). The programme offers a diverse range of [interdisciplinary modules](https://www.usp.nus.edu.sg/curriculum/usp-modules/) that focus on writing and critifical thinking skills, intellectual curiosity, reflective thinking and asking questions.
 
-As my USP journey is drawing to a close in a year's time, I wanted to consolidated the works I did, no matter whether they're good or bad, that documented my growth as a USP student. This repository contains a selection of the essays that I have written in my past three years in USP, involving the following modules (in **chronological order**):
+As my USP journey is drawing to a close in a year's time, I wanted to consolidate the works I did, no matter whether they're good or bad, that documented my growth as a USP student. This repository contains a selection of the essays that I have written in my past three years in USP, involving the following modules (in **chronological order**):
 - [Conditions of Happiness](https://github.com/LiuZechu/my-usp-essays/tree/main/conditions-of-happiness) — Fall 2018
 - [Globalising Asian-Pacific Identities](https://github.com/LiuZechu/my-usp-essays/tree/main/globalising-asian-pacific-identities) — Spring 2019
 - [Language, Cognition and Culture](https://github.com/LiuZechu/my-usp-essays/tree/main/language-cognition-and-culture) — Fall 2019
