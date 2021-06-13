@@ -3,12 +3,12 @@
 The [University Scholars Programme (USP)](https://www.usp.nus.edu.sg/) is a four-year academic programme in the [National University of Singapore (NUS)](https://www.nus.edu.sg/). The programme offers a diverse range of [interdisciplinary modules](https://www.usp.nus.edu.sg/curriculum/usp-modules/) that focus on writing and critifical thinking skills, intellectual curiosity, reflective thinking and asking questions.
 
 As my USP journey is drawing to a close in a year's time, I wanted to consolidate the works I did, no matter whether they're good or bad, that documented my growth as a USP student. This repository contains a selection of the essays that I have written in my past three years in USP, involving the following modules (in **chronological order**):
-- [Conditions of Happiness](https://github.com/LiuZechu/my-usp-essays/tree/main/conditions-of-happiness) — Fall 2018
-- [Globalising Asian-Pacific Identities](https://github.com/LiuZechu/my-usp-essays/tree/main/globalising-asian-pacific-identities) — Spring 2019
-- [Language, Cognition and Culture](https://github.com/LiuZechu/my-usp-essays/tree/main/language-cognition-and-culture) — Fall 2019
-- [Quantifying Nuclear Risks](https://github.com/LiuZechu/my-usp-essays/tree/main/quantifying-nuclear-risks) — Fall 2019
-- [Quantum Computation](https://github.com/LiuZechu/my-usp-essays/tree/main/quantum-computation) — Spring 2020
-- [Biodiversity and Natural History in Singapore](https://github.com/LiuZechu/my-usp-essays/tree/main/biodiversity-and-natural-history-in-singapore) — Spring 2021
+- [Conditions of Happiness](https://github.com/LiuZechu/my-usp-essays/tree/main/conditions-of-happiness) by Dr Bart Van Wassenhove — Fall 2018
+- [Globalising Asian-Pacific Identities](https://github.com/LiuZechu/my-usp-essays/tree/main/globalising-asian-pacific-identities) by A/P Barbara Ryan — Spring 2019
+- [Language, Cognition and Culture](https://github.com/LiuZechu/my-usp-essays/tree/main/language-cognition-and-culture) by A/P Peter Vail — Fall 2019
+- [Quantifying Nuclear Risks](https://github.com/LiuZechu/my-usp-essays/tree/main/quantifying-nuclear-risks) by Dr Philippe Raynal — Fall 2019
+- [Quantum Computation](https://github.com/LiuZechu/my-usp-essays/tree/main/quantum-computation) by Dr Philippe Raynal — Spring 2020
+- [Biodiversity and Natural History in Singapore](https://github.com/LiuZechu/my-usp-essays/tree/main/biodiversity-and-natural-history-in-singapore) by Dr Ang Yuchen — Spring 2021
 
 Read on for more information about each module.
 
