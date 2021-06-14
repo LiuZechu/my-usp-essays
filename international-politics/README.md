@@ -1,6 +1,6 @@
 # Managing the world: international politics and the global order
 
-## Essay and Assignment Questions
+## Essay Question
 - `final_essay.pdf`: Is the state still the primary actor in international affairs?
 
 ## More about this module
