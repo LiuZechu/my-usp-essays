@@ -5,6 +5,7 @@ The [University Scholars Programme (USP)](https://www.usp.nus.edu.sg/) is a four
 As my USP journey is drawing to a close in a year's time, I wanted to consolidate the works I did, no matter whether they're good or bad, that documented my growth as a USP student. This repository contains a selection of the essays that I have written in my past three years in USP, involving the following modules (in **chronological order**):
 - [Conditions of Happiness](https://github.com/LiuZechu/my-usp-essays/tree/main/conditions-of-happiness) by Dr Bart Van Wassenhove — Fall 2018
 - [Globalising Asian-Pacific Identities](https://github.com/LiuZechu/my-usp-essays/tree/main/globalising-asian-pacific-identities) by A/P Barbara Ryan — Spring 2019
+- [Managing the world: international politics and the global order](https://github.com/LiuZechu/my-usp-essays/tree/main/international-politics) taken in [University of Cambridge, International Summer Programmes](https://www.ice.cam.ac.uk/courses/international-summer-programmes) — Summer 2019
 - [Language, Cognition and Culture](https://github.com/LiuZechu/my-usp-essays/tree/main/language-cognition-and-culture) by A/P Peter Vail — Fall 2019
 - [Quantifying Nuclear Risks](https://github.com/LiuZechu/my-usp-essays/tree/main/quantifying-nuclear-risks) by Dr Philippe Raynal — Fall 2019
 - [Quantum Computation](https://github.com/LiuZechu/my-usp-essays/tree/main/quantum-computation) by Dr Philippe Raynal — Spring 2020
@@ -26,6 +27,13 @@ In this course, we will investigate a fundamental human question: what is happin
 **Module Synopsis**:
 
 Growing up with Facebook, cinema, YouTube, and more, you may have felt that you had the globe at your fingertips. Yet have you interrogated effects of this feeling on your ability to act as an independent, adaptable thinker and doer? Is it possible that media have taught you to act as a spectator, only, rather than as a curious, possibly courageous, world citizen when you study abroad, travel, consider migrant issues, or seek employment? This module explores integrity, openness and maybe expressivity, through one strand of identity, Asian-Pacificness. However, certain lessons may transfer to strands such as gender/sex, age, faith, and able-ism. A thought-provocation is sociologist Paul Gilroy’s insight that in a diasporic world, roots may matter less than commerce-impelled routes of transmission.
+
+## Managing the world: international politics and the global order
+**Link to Module Website**: [https://www.ice.cam.ac.uk/course/managing-world-international-politics-and-global-order](https://www.ice.cam.ac.uk/course/managing-world-international-politics-and-global-order)
+
+**Module Synopsis**:
+
+In this team-taught course, we consider some of the key issues shaping global politics in the modern world and examine how political, strategic, technological and economic aspects of international relations interact with, and reinforce, one another in creating the current global order. Scholars from various fields of expertise will cover a range of current and historical issues, which are planned to include: an introduction to war and the beginning of international relations; the role of economics and trade; diplomacy, international law and the United Nations; the rise of regional powers in a globalised world; China, the new global player; climate change and the new Arctic frontier; dealing with crises – Eurozone and refugees; Brexit and the future of the EU; negotiating peace in the Middle East; and future prospects for peace and prosperity.
 
 ## Language, Cognition and Culture
 **Link to Module Website**: [https://www.usp.nus.edu.sg/curriculum/usp-modules/language-cognition-and-culture/](https://www.usp.nus.edu.sg/curriculum/usp-modules/language-cognition-and-culture/)
